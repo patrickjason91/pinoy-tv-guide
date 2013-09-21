@@ -1,0 +1,1 @@
+say("Guess what? I am using the Tropo API to say this message! Isn't it cool?", {voice:"kate"});
